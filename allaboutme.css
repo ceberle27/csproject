@@ -1,0 +1,36 @@
+body {
+    background-image: url("http://www.wired.com/wp-content/uploads/2014/10/whyte-c.gif");
+
+}
+h1 {
+    color:black;
+    border-bottom:solid 4px red;
+    background-color:white;
+}
+
+li{
+    background-color:white;
+    
+}
+navbar {
+    background-color:white;
+}
+p {
+    background-color:white;
+    border:black 5px solid;
+    padding:5px;
+    
+    
+    
+}
+
+<link rel="stylesheet" type="text/css" href="indexstyle.css" class="css">
+        <link rel="stylesheet" type="text/css" href="navbar.css">
+    
+        <ul id="navbar">
+            <li><a href="aboutme.html">All About Me</a></li>
+            <li><a href="hardware.html">Computer Hardware</a></li>
+            <li><a href="html-and-css"> HTML & CSS</a></li>
+            <li><a href="https://findminecraft.com">Special Surprise</a></li>
+            
+            </ul>

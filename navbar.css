@@ -1,0 +1,14 @@
+#navbar{
+    text-align:center;
+}
+#navbar a{
+    
+}
+#navbar li{
+    display:inline-block;
+    border:2px solid blue;
+    padding:15px;
+}
+h1 {
+    font-family:Helvetica;
+}

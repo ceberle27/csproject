@@ -1,0 +1,28 @@
+
+
+div:hover {
+    background-color:rgb(255, 153, 51);
+    color: rgb(255, 255, 204);
+    
+}
+body{
+    background-color:rgb(153, 255, 51);
+    border:double red 2px;
+    padding:5px;
+    
+}
+
+#navbar{
+    text-align:center;
+}
+#navbar a{
+    
+}
+#navbar li{
+    display:inline-block;
+    border:2px solid blue;
+    padding:7px;
+}
+h1 {
+    font-family:Helvetica;
+}  

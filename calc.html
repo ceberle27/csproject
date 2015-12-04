@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    `
+	<title>Document</title>
+</head>
+<link rel="stylesheet" type="text/css" href="calc.css">
+<body>
+    
+    
+    <style>
+        li{
+    text-align:center;
+    display:inline-block;
+    border:2px solid blue;
+    padding:15px;
+}
+    </style>
+    
+      <ul id="navbar">
+            <li><a href="index.html">Back to intro page</a></li>
+            <li><a href="aboutme.html">About me</a></li>   
+            <li><a href="hardware.html">Computer Hardware</a></li>
+            <li><a href="html-and-css.html"> HTML & CSS</a></li>
+            <li><a href='info.html'>Video Games</a></li>
+            <li><a href="todolist.html">To Do List</a></li>
+            </ul>
+    
+<input type ="text" name="input1" style="width:50px;" id="input1">
+    <select id="dropdown">
+ 
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="x">x</option>
+        <option value="/">/</option>
+        <option value="^">^</option>
+        <option value="%">%</option>
+    </select>
+    <input type ="text" name="input2" style="width:50px;" id="input2">
+    <input type="button" value="Calculate" id="submitButton" />
+    <p>The answer is: <span id="display"></span></p>
+<script src="calc.js" ></script>
+
+</body>
+</html> 

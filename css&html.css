@@ -1,0 +1,29 @@
+h1 {
+    border:double 4px black;
+    color:black;
+    text-shadow:3px 3px orange;
+    font-family:cursive;
+    border-bottom:3px solid red;
+    border-right:3px solid red;
+}
+body {
+    background-color:black;
+}
+p {
+    color:white;
+    font-family:sans-serif;
+}
+.navbar {
+    background-color:white;
+    border:solid blue 2px;
+}
+h3 {
+    color:orange;
+    text-shadow:white 1px 1px;
+}
+#navbar li{
+    display:inline-block;
+    border:2px solid blue;
+    padding:15px;
+    background-color:white;
+}

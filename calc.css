@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(153, 204, 255);
+    text-align:center;
+    padding:5px;
+        
+}
+p{
+    color: black;
+    border: 3px blue solid;
+    font-family:helvetica;
+    
+}
+

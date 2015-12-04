@@ -1,0 +1,24 @@
+h2 {
+    text-shadow:orange 2px 2px;
+    color:red;
+     
+}
+p {
+    color:white;
+    font-family:sans-serif; }
+    
+body {
+    background-color:black;
+}
+h1{
+    color: rgb(255, 255, 0);
+    text-shadow:3px 3px rgb(51,51,255);
+    border:double white 3px;
+}
+
+#navbar li{
+    display:inline-block;
+    border:2px solid blue;
+    padding:15px;
+    background-color:white;
+}
